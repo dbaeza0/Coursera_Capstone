@@ -1,0 +1,77 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Applied Data Science Specialization%
+, IBM%
+\BCBL {}\ \BBA {} Coursera%
+}{%
+Course%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+Course}
+\APACinsertmetastar {%
+Course}%
+\begin{APACrefauthors}%
+IBM%
+\BCBL {}\ \BBA {} Coursera
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\href{https://www.coursera.org/specializations/applied-data-science}{Applied Data Science Specialization}
+\newblock
+
+\bibitem [\protect \citeauthoryear {%
+Applied Data Science Capstone Example Notebook%
+, IBM%
+\BCBL {}\ \BBA {} Coursera%
+}{%
+CourseExample%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+CourseExample}
+\APACinsertmetastar {%
+CourseExample}%
+\begin{APACrefauthors}%
+IBM%
+\BCBL {}\ \BBA {} Coursera
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\href{https://cocl.us/coursera_capstone_notebook}{Capstone Example Project Notebook}
+\newblock
+
+\bibitem [\protect \citeauthoryear {%
+Foursquare Development Sources%
+{}
+}{%
+FoursquareAPI%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+FoursquareAPI}
+\APACinsertmetastar {%
+FoursquareAPI}%
+\unskip\
+\newblock
+\href{https://developer.foursquare.com/}{Foursquare Developer Portal}
+\newblock
+
+\bibitem [\protect \citeauthoryear {%
+Google Maps Development Sources%
+{}
+}{%
+GoogleAPI%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+GoogleAPI}
+\APACinsertmetastar {%
+GoogleAPI}%
+\unskip\
+\newblock
+\href{https://developers.google.com/maps/documentation}{Google Maps Developer Portal}
+\newblock
+
+\end{thebibliography}
