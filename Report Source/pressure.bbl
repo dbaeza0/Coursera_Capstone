@@ -1,0 +1,28 @@
+\begin{thebibliography}{Devb}
+
+\bibitem[Deva]{foursquare}
+Foursquare Developer.
+\newblock Foursquare developer portal and api reference.
+\newblock \url{https://developer.foursquare.com/}.
+\newblock Accessed: 2020-05-29.
+
+\bibitem[Devb]{googleApi}
+Google Developer.
+\newblock Capstone example project notebook.
+\newblock \url{https://developers.google.com/maps/documentation}.
+\newblock Accessed: 2020-05-29.
+
+\bibitem[ICa]{course}
+IBM and Coursera.
+\newblock Applied data science specialization.
+\newblock
+  \url{https://www.coursera.org/specializations/applied-data-sciencefour}.
+\newblock Accessed: 2020-05-29.
+
+\bibitem[ICb]{courseNotebook}
+IBM and Coursera.
+\newblock Capstone example project notebook.
+\newblock \url{https://cocl.us/coursera_capstone_notebook}.
+\newblock Accessed: 2020-05-29.
+
+\end{thebibliography}
